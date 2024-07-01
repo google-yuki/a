@@ -3,7 +3,7 @@
 偽装ページが電卓のやつです。リポジトリをこちらに移行しました。  
 ---
 インスタンスなど  
-[EX]()  
+[EX](https://github.com/beta9514/B95_EX)  
 [Ex(電卓版)](https://github.com/beta9514/B95_EX-calculator)  
 ---
 ↓デプロイ用↓  
