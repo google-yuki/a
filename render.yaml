@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: c95
+    name: google
     env: python
     region: Oregon
     plan: free
